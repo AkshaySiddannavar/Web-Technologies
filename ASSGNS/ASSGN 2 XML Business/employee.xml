@@ -1,22 +1,22 @@
 <?xml version = "1.0"?>  
 <?xml-stylesheet type = "text/xsl" href = "employee.xsl"?>   
 <class>   
-   <employee id = "334">  
-      <firstname>Akshay</firstname>   
-      <lastname>Siddannavar</lastname>   
-      <nickname>AkS</nickname>   
-      <salary>11</salary>  
+   <employee id = "101">  
+      <firstname>Tejas</firstname>   
+      <lastname>Podutwar</lastname>   
+      <nickname>TPO</nickname>   
+      <salary>99999</salary>  
    </employee>   
-   <employee id = "335">   
-      <firstname>Krishna</firstname>   
-      <lastname>Harikrishan</lastname>   
-      <nickname>Manohar</nickname>   
-      <salary>25000</salary>  
+   <employee id = "102">   
+      <firstname>Satpal</firstname>   
+      <lastname>Rajput</lastname>   
+      <nickname>pal</nickname>   
+      <salary>1990</salary>  
    </employee>   
-   <employee id = "336">   
-      <firstname>Ramchandra</firstname>   
-      <lastname>Raghu</lastname>   
-      <nickname>Ram</nickname>   
-      <salary>10000</salary>   
+   <employee id = "103">   
+      <firstname>John</firstname>   
+      <lastname>Doe</lastname>   
+      <nickname>JD</nickname>   
+      <salary>23000</salary>   
    </employee>   
 </class>  
